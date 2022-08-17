@@ -1,0 +1,1 @@
+<?php $num=5;echo $num; ?><br><?php $num=135;echo $num; ?>

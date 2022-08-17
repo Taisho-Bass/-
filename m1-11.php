@@ -1,0 +1,1 @@
+<?php $str="こんにちは"; echo $str; echo "<br>" ; $str="ありがとう"; echo $str; ?>
